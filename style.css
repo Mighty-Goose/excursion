@@ -1,0 +1,62 @@
+html {
+    font-family: Verdana;
+    font-size: 16px;
+}
+
+.site-header {
+    font-size: 3.125rem;
+    color: white;
+    font-weight: normal;
+    text-align: center;
+    background-color: black;
+    height: 100px;
+    
+}
+
+div {
+    text-align: center;
+    background-color: black;
+    padding: 1%;
+}
+.download {
+    color: aquamarine;
+    font-size: 1rem;
+}
+
+.guide {
+    color: white;
+    font-size: 2.625rem;
+    font-weight: normal;
+    text-align: center;
+    background-color: black;
+}
+
+.guidetext {
+    color: gray;
+    font-size: 1.313rem;
+    font-weight: normal;
+    text-align: center;
+    background-color: black;
+}
+
+.camp {
+    background-color: black;
+    min-width: 1600px;
+    min-height: 500px;
+}
+
+.coming-soon {
+    color: white;
+    font-size: 2.625rem;
+    font-weight: normal;
+    text-align: center;
+    background-color: black;
+}
+
+.copyright {
+    color: gray;
+    font-size: 1.313rem;
+    font-weight: normal;
+    text-align: right;
+    background-color: black;
+}
